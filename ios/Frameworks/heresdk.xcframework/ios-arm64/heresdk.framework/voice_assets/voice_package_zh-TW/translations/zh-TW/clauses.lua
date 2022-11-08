@@ -1,0 +1,17 @@
+return {
+    ['nav.clause.DIRECTION.route.onthe'] = '在{ROUTE}',
+    ['nav.clause.DIRECTION.route.ontothe'] = '{ROUTE}',
+    ['nav.clause.DIRECTION.route_signpost.onthe'] = '在{ROUTE}的{SIGNPOST}',
+    ['nav.clause.DIRECTION.route_signpost.ontothe'] = '{ROUTE}的{SIGNPOST}',
+    ['nav.clause.DIRECTION.route_signpost.the'] = '{ROUTE}的{SIGNPOST}',
+    ['nav.clause.DIRECTION.route_signpost.towards'] = '{ROUTE}的{SIGNPOST}',
+    ['nav.clause.DIRECTION.route.the'] = '{ROUTE}',
+    ['nav.clause.DIRECTION.signpost.towards'] = '{SIGNPOST}',
+    ['nav.clause.DIRECTION.street.on'] = '在{STREET}',
+    ['nav.clause.DIRECTION.street.onto'] = '{STREET}',
+    ['nav.clause.DIRECTION.street_signpost.on'] = '在{STREET}的{SIGNPOST}',
+    ['nav.clause.DIRECTION.street_signpost.onto'] = '{STREET}的{SIGNPOST}',
+    ['nav.clause.TURN_KEEP.lane'] = '利用{LANE}',
+    ['nav.clause.TURN_KEEP.lane-move'] = '利用{LANE}並{MOVE}',
+    ['nav.clause.TURN_KEEP.move'] = '{MOVE}',
+}

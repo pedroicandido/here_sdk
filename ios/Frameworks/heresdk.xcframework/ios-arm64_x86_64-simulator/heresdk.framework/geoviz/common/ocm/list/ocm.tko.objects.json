@@ -1,0 +1,1 @@
+{"$concat": [{"$ref": "ocm.objects.json#"}, {"ocm_building_footprints_japan": {}, "ocm_public_transit_metro_lines_japan": {}, "ocm_public_transit_lines": {}}]}

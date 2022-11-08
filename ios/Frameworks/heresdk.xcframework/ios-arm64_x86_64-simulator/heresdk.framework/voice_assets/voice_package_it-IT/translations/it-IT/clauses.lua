@@ -1,0 +1,17 @@
+return {
+    ['nav.clause.DIRECTION.route-signpost.onthe'] = 'sulla {ROUTE} verso {SIGNPOST}',
+    ['nav.clause.DIRECTION.route-signpost.ontothe'] = 'sulla {ROUTE} verso {SIGNPOST}',
+    ['nav.clause.DIRECTION.route-signpost.the'] = 'la {ROUTE} verso {SIGNPOST}',
+    ['nav.clause.DIRECTION.route-signpost.towards'] = 'verso {ROUTE}, {SIGNPOST}',
+    ['nav.clause.DIRECTION.route.onthe'] = 'sulla {ROUTE}',
+    ['nav.clause.DIRECTION.route.ontothe'] = 'sulla {ROUTE}',
+    ['nav.clause.DIRECTION.route.the'] = 'la {ROUTE}',
+    ['nav.clause.DIRECTION.signpost.towards'] = 'verso {SIGNPOST}',
+    ['nav.clause.DIRECTION.street-signpost.on'] = 'su {STREET} verso {SIGNPOST}',
+    ['nav.clause.DIRECTION.street-signpost.onto'] = 'su {STREET} verso {SIGNPOST}',
+    ['nav.clause.DIRECTION.street.on'] = 'su {STREET}',
+    ['nav.clause.DIRECTION.street.onto'] = 'su {STREET}',
+    ['nav.clause.TURN_KEEP.lane'] = 'usate {LANE}',
+    ['nav.clause.TURN_KEEP.lane-move'] = 'usate {LANE} e {MOVE}',
+    ['nav.clause.TURN_KEEP.move'] = '{MOVE}',
+}

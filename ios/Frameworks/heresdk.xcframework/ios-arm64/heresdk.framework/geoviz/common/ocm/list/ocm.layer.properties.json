@@ -1,0 +1,1 @@
+{"geofog": {"projections": ["Spherical"]}, "geohalo": {"projections": ["Spherical"]}, "northpole": {"projections": ["Spherical"]}, "ocm_extruded_buildings": {"castsShadows": true, "enableFadeInTime": false}, "southpole": {"projections": ["Spherical"]}}
